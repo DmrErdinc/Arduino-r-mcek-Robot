@@ -42,7 +42,7 @@ Bu proje, Arduino tabanlı bir örümcek robotunun geliştirilmesini kapsamaktad
 5. Android APK dosyasını telefonuna kur ve HC-05 cihazına bağlan.
 
 ## 📷 Görseller
-![ÖzRümcek Robot](Images/robot_fotolari.jpg)
+![ÖzRümcek Robot](IMG-20250311-WA0002.jpg)
 
 ## 👨‍💻 Geliştirici
 **Ad Soyad**: Erdinç Demir  
